@@ -17,7 +17,7 @@ build:
   # Skipping win build due to r-rjags not supporting win environment
   skip: True  # [win]
   merge_build_host: True  # [win]
-  number: 0
+  number: 1
 
   rpaths:
     - lib/R/lib/
